@@ -1,0 +1,12 @@
+Jul 18 09:00:01 kali sshd[1001]: Accepted password for mute from 10.0.2.5 port 51000 ssh2
+Jul 18 09:01:11 kali sshd[1002]: Failed password for root from 10.0.2.9 port 51102 ssh2
+Jul 18 09:05:12 kali sshd[2000]: Failed password for invalid user root from 45.9.1.7 port 40001 ssh2
+Jul 18 09:05:16 kali sshd[2001]: Failed password for invalid user admin from 45.9.1.7 port 40012 ssh2
+Jul 18 09:05:20 kali sshd[2002]: Failed password for invalid user root from 45.9.1.7 port 40023 ssh2
+Jul 18 09:05:24 kali sshd[2003]: Failed password for invalid user test from 45.9.1.7 port 40034 ssh2
+Jul 18 09:05:28 kali sshd[2004]: Failed password for invalid user oracle from 45.9.1.7 port 40045 ssh2
+Jul 18 09:05:32 kali sshd[2005]: Failed password for invalid user root from 45.9.1.7 port 40056 ssh2
+Jul 18 09:05:36 kali sshd[2006]: Failed password for invalid user postgres from 45.9.1.7 port 40067 ssh2
+Jul 18 09:05:40 kali sshd[2007]: Failed password for invalid user ubuntu from 45.9.1.7 port 40078 ssh2
+Jul 18 09:06:02 kali sshd[3001]: Invalid user guest from 203.0.113.4
+Jul 18 09:07:40 kali sshd[3050]: pam_unix(sshd:auth): authentication failure; logname= uid=0 rhost=198.51.100.22 user=admin
